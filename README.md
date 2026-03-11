@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PythonChicken123
 - 👀 I’m interested in Python, Java, C, HTML
 - 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on https://organicchicken.netlify.app
+<!--- 💞️ I’m looking to collaborate on https://organicchicken.netlify.app --->
 - 📫 Scripts in ----
 
 <!---
